@@ -1,0 +1,129 @@
+[
+  {
+    "who": {
+      "name": "Namn: ",
+      "date": "Datum: ",
+      "time": "Tid: "
+    }
+  },
+  
+  {
+    "id": {
+      "quest": "Fråga 1: Älskar du att gå långa promenade även vid dåligt väder?",
+      "val": "",
+      "vikt": [100, 66, 33, 0]
+    }
+  },
+
+  {
+    "id": {
+      "quest": "Fråga 2: Trivs du bäst med ett pälsdjur i knät?",
+      "val": "",
+      "vikt": [66, 0, 33, 0]
+    }
+  },
+
+  {
+    "id": {
+      "quest": "Fråga 3: Söker du ett självständigt djur med personlighet och intregitet?",
+      "val": "",
+      "vikt": [0, 33, 100, 66]
+    }
+  }  ,
+
+  {
+    "id": {
+      "quest": "Fråga 4: Sitter du helst framför teven eller tittar ut genom fönstret?",
+      "val": "",
+      "vikt": [0, 0, 0, 0]
+    }
+  },
+
+  {
+    "id": {
+      "quest": "Fråga 5: Gillar du att aktivera dig och ditt husdjur på små ytor utomhus utan att behöva röra dig så mycket?",
+      "val": "",
+      "vikt": [0, 0, 0, 0]
+    }
+  },
+
+  {
+    "id": {
+      "quest": "Fråga 6: Vill du vara uppbunden till ett djur under lång tid?",
+      "val": "",
+      "vikt": [0, 0, 0, 0]
+    }
+  },
+
+  {
+    "id": {
+      "quest": "Fråga 7: Ser du helst att ditt husdjur inte har några störande ljud för sig?",
+      "val": "",
+      "vikt": [0, 0, 0, 0]
+    }
+  },
+
+  {
+    "id": {
+      "quest": "Fråga 8: Tycker du om att ha pedantiskt rent hemma?",
+      "val": "",
+      "vikt": [0, 0, 0, 0]
+    }
+  },
+
+  {
+    "id": {
+      "quest": "Fråga 9: Det gör inget om det är lite tassavtryck, hund eller katthår?",
+      "val": "",
+      "vikt": [0, 0, 0, 0]
+    }
+  },
+
+  {
+    "id": {
+      "quest": "Fråga 10: Jag vill ha ett djur som hjälper mig att känna trygghet?",
+      "val": "",
+      "vikt": [0, 0, 0, 0]
+    }
+  },
+
+  {
+    "id": {
+      "quest": "Fråga 11: Jag ser nog ett djur som sköter sina egna toalettbestyr?",
+      "val": "",
+      "vikt": [0, 0, 0, 0]
+    }
+  },
+
+  {
+    "id": {
+      "quest": "Fråga 12: Jag är allergisk och väljer nog bort pälsdjur?",
+      "val": "",
+      "vikt": [0, 0, 0, 0]
+    }
+  },
+
+  {
+    "id": {
+      "quest": "Fråga 13: Har du en väldigt liten bil eller åker du rent av endast kommunalt?",
+      "val": "",
+      "vikt": [0, 0, 0, 0]
+    }
+  },
+
+ {
+    "id": {
+      "quest": "Fråga 14: Reser du mycket i tjänsten och/eller privat?",
+      "val": "",
+      "vikt": [0, 0, 0, 0]
+    }
+  },
+
+  {
+    "id": {
+      "quest": "Fråga 15: Bor du centralt i en storstad?",
+      "val": "",
+      "vikt": [0, 0, 0, 0]
+    }
+  }
+]
